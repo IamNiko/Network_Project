@@ -38,8 +38,4 @@ cd Network_Project
 
 ---
 
-📌 Guardalo como `README.md` en la raíz del proyecto:
-
-```bash
-cd ~/Network_Project
-nano README.md
+📌 
