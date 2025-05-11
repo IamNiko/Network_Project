@@ -1,1 +1,9 @@
+# Ignorar base de datos y capturas de red
+*.db
+*.pcap
+
+# Ignorar cachés y carpetas temporales
+__pycache__/
+*.pyc
+instance/
 server/venv/
